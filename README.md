@@ -1,3 +1,31 @@
+# Megamentes
+
+> Portfólio de [Alberto da Rocha Miranda](https://github.com/angrysine) · Inteli · Módulo 9 · 2024
+
+## O que foi desenvolvido
+
+Infraestrutura de monitoramento ambiental e plataforma de interação comunitária, explorando IoT, segurança e escalabilidade no contexto de cidades sustentáveis.
+
+**Parceiro / contexto:** PRODAM.
+
+## Tecnologias e conceitos
+
+IoT · AWS · Sistemas distribuídos.
+
+## Participação e créditos
+
+Participei deste projeto como integrante da equipe no Inteli — Instituto de Tecnologia e Liderança. A solução é um trabalho coletivo; este fork organiza sua apresentação no meu portfólio e preserva os autores, créditos, licenças e materiais originais.
+
+[Repositório de origem](https://github.com/Inteli-College/2024-T0002-EC09-G02) · [Portfólio](https://angrysine.github.io/)
+
+## Documentação e execução
+
+As instruções técnicas e os materiais da equipe foram preservados abaixo e nas pastas do repositório. Esta atualização organiza a apresentação do projeto acadêmico e não representa uma nova validação de execução.
+
+---
+
+## Documentação original da equipe
+
 # 2024-T0002-EC09-G02 - Inteli - Instituto de Tecnologia e Liderança 
 
 <p align="center">
